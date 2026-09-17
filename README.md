@@ -5,9 +5,8 @@
 사용자와 업무의 문제를 AI 제품과 서비스로 구현하는 개발자 정하준입니다.  
 현재 **에너지엑스 경영기획팀**에서 **AX 전환** 업무를 담당하고 있습니다.
 
-[Email](mailto:chhajun01@naver.com) · [Projects](https://github.com/hajun13?tab=repositories)
+[Email](mailto:chhajun01@naver.com) 
 
-<br>
 
 ### Experience
 
@@ -22,14 +21,11 @@ AI 기반 제품 개발, 업무 자동화 플랫폼 기획 및 MVP 검증.
 컴퓨터비전 알고리즘 개발 및 한국인공지능학회 논문 등재.  
 <sub>2024.03 - 2024.09</sub>
 
-<br>
-
 ### Education
 
 **삼육대학교 컴퓨터공학부**  
 <sub>2020.03 - Present · GPA 3.83 / 4.5</sub>
 
-<br>
 
 ### Awards
 
@@ -40,10 +36,9 @@ OpenData MCP 프로젝트
 **국가우수이공계 장학생 선정**  
 <sub>한국장학재단 · 2024.03</sub>
 
-<br>
 
 ### Stack
 
 **Frontend** · Next.js · React · TypeScript · Tailwind CSS  
 **Backend** · FastAPI · Python · Node.js · PostgreSQL  
-**AI & Tools** · LLM Integration · FastMCP · Docker · Git
+**AI & Tools** · LangChain · LangGraph · FastMCP · Docker · Git
