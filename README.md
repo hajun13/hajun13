@@ -8,7 +8,7 @@
 [Email](mailto:chhajun01@naver.com) 
 
 
-**### Experience**
+### Experience
 
 **에너지엑스** · 경영기획팀 / AX 전환  
 <sub>2026.06 - Present</sub>
