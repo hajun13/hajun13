@@ -1,5 +1,4 @@
 # Hajun Jeong
-<hr>
 
 **AI Product Engineer · Full-Stack Developer**
 
@@ -7,7 +6,7 @@
 현재 **에너지엑스 경영기획팀**에서 **AX 전환** 업무를 담당하고 있습니다. [Email](mailto:hjeong5743@energyx.co.kr) 
 
 
-# Experience
+# ##Experience
 
 **에너지엑스** · 경영기획팀 / AX 전환  
 <sub>2026.06 - Present</sub>
