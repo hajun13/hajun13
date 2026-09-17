@@ -24,22 +24,6 @@ AI 기반 제품 개발, 업무 자동화 플랫폼 기획 및 MVP 검증.
 
 <br>
 
-### Selected projects
-
-**[OpenData MCP](https://mcp.ezrnd.co.kr/)**  
-LLM으로 공공데이터를 탐색하는 MCP 기반 통합 플랫폼.  
-<sub>Next.js · TypeScript · FastMCP</sub>
-
-**[Rail Robot Dashboard](https://github.com/hajun13/railrobot-dashboard)**  
-레일로봇의 상태·센서·알람을 실시간으로 모니터링하고 제어하는 관제 시스템.  
-<sub>Next.js · FastAPI · WebSocket · PostgreSQL</sub>
-
-**[ECOTRA](https://github.com/hajun13/ecotra)**  
-기업 웹사이트와 연구성과 관리 CMS를 통합한 풀스택 웹 애플리케이션.  
-<sub>React · Node.js · Express · Docker</sub>
-
-<br>
-
 ### Education
 
 **삼육대학교 컴퓨터공학부**  
