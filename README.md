@@ -11,7 +11,7 @@
 <sub>2026.06 - Present</sub>
 
 **Modulex** · Founder  
-로봇 제조 플랫폼 기획 및 MVP 검증.
+로봇 제조 플랫폼 기획 및 MVP 검증 <br/>
 <sub>2026.01 - 2026.03</sub>
 
 **HnVLab 인공지능연구실** · 학부연구생  
